@@ -20,3 +20,6 @@ append-only. 새 항목은 맨 아래에 추가한다. 최근 5건: `Select-Stri
 - 생성: [[haemu-doc-classification-20251209-v2]], [[haemu-team]], [[smmc]], [[smmc-procedures]], [[crew-management-procedure]], [[external-audits]], [[crew-recruitment]], [[external-agencies]]
 - 갱신: [[overview]]
 - 메모: 사용자 확인 — SMMC = 새한선관. 분류표 문제점(장기근속자 표창 중복, DEBRIEING 오타, 번호 형식 혼재) 기록. 「조근규정」 의미·KSSU 정식명칭 미확인.
+## [2026-11-09] refactor | 「조근규정」 확인 항목 제거
+- 갱신: [[haemu-doc-classification-20251209-v2]], [[crew-management-procedure]]
+- 메모: 사용자 지시로 「조근규정」 의미 확인은 하지 않음. 폴더명은 원문대로 유지.
