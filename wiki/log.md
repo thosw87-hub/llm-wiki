@@ -26,3 +26,5 @@ append-only. 새 항목은 맨 아래에 추가한다. 최근 5건: `Select-Stri
 ## [2026-11-09] refactor | KSSU 정체 확인
 - 갱신: [[external-agencies]]
 - 메모: 사용자 확인 — KSSU = 전국 선박관리 노동조합. 표기는 KSSU 그대로 유지.
+## [2026-11-09] schema | 관리자 이름 지정
+- CLAUDE.md: 위키 관리자 이름을 「해리」로 지정.
